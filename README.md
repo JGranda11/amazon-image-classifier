@@ -38,7 +38,7 @@ Desarrollar un modelo de **Machine Learning** capaz de clasificar automáticamen
 ---
 
 
-## 📚 Referencias
+##  Referencias
 
 - Planet Labs (2017). *Planet: Understanding the Amazon from Space*. Kaggle Competition.  
 - Rom, N. (2017). *Planets Dataset*. Kaggle Dataset.  
