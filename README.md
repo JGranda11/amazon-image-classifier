@@ -31,11 +31,6 @@ Desarrollar un modelo de **Machine Learning** capaz de clasificar automáticamen
 
 ---
 
-## Metodología
-
-`...`
-
----
 
 
 ##  Referencias
@@ -45,7 +40,7 @@ Desarrollar un modelo de **Machine Learning** capaz de clasificar automáticamen
 - Singh, A.K. & Shankar, B.U. (2022). *Multi-Label Classification on Remote-Sensing Images*. arXiv:2201.01971.  
 - Ji, J., Jing, W., Chen, G., Lin, J., & Song, H. (2020). *Multi-Label Remote Sensing Image Classification with Latent Semantic Dependencies*. *Remote Sensing*, 12(7), 1110.  
 - You, H., Gu, J., & Jing, W. (2023). *Multi-Label Remote Sensing Image Land Cover Classification Based on a Multi-Dimensional Attention Mechanism*. *Remote Sensing*, 15(20), 4979.
-`...`
+
 
 
 
