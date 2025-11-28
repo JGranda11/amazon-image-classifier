@@ -32,7 +32,7 @@ Desarrollar un modelo de **Machine Learning** capaz de clasificar automáticamen
 ---
 
 ## Link video
-**Video YouTube:** [Abrir enlace](https://www.youtube.com/watch?v=JL0biJxLb_s)
+**Video YouTube:** [Abrir enlace](https://youtu.be/ieNGM2NYEYM)
 
 ##  Referencias
 
